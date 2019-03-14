@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41939f80-f5ec-4819-8bef-f5d088bc29ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FaceRecognition/FaceRecognition.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FaceRecognition/FaceRecognition.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ImageLinkForm/ImageLinkForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ImageLinkForm/ImageLinkForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Register/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Register/Register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SignIn/SignIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignIn/SignIn.js" afterDir="false" />
-    </list>
+    <list default="true" id="41939f80-f5ec-4819-8bef-f5d088bc29ef" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,12 +248,12 @@
       <workItem from="1552518334042" duration="43000" />
       <workItem from="1552518557694" duration="162000" />
       <workItem from="1552520434586" duration="1556000" />
-      <workItem from="1552569219197" duration="1952000" />
+      <workItem from="1552569219197" duration="2213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36099000" />
+    <option name="totallyTimeSpent" value="36360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
